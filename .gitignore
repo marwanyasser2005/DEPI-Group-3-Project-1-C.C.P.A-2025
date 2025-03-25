@@ -1,0 +1,10 @@
+# Ignore virtual environment
+churn_env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.joblib
+*.csv
+.DS_Store
