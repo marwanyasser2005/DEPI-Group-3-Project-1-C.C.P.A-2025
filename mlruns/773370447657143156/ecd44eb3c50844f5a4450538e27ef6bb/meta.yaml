@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/773370447657143156/ecd44eb3c50844f5a4450538e27ef6bb/artifacts
+end_time: 1742873592498
+entry_point_name: ''
+experiment_id: '773370447657143156'
+lifecycle_stage: active
+run_id: ecd44eb3c50844f5a4450538e27ef6bb
+run_name: flawless-shark-516
+run_uuid: ecd44eb3c50844f5a4450538e27ef6bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742873592320
+status: 4
+tags: []
+user_id: Marwan Yasser
