@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/7ee61947db594d479f8ecdd60b7e7153/artifacts
+end_time: 1747242194209
+entry_point_name: ''
+experiment_id: '763011196537422008'
+lifecycle_stage: active
+run_id: 7ee61947db594d479f8ecdd60b7e7153
+run_name: caring-loon-437
+run_uuid: 7ee61947db594d479f8ecdd60b7e7153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242181984
+status: 3
+tags: []
+user_id: Marwan Yasser
