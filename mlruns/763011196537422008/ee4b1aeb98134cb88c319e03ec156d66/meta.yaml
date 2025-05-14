@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/ee4b1aeb98134cb88c319e03ec156d66/artifacts
+end_time: 1747232557776
+entry_point_name: ''
+experiment_id: '763011196537422008'
+lifecycle_stage: active
+run_id: ee4b1aeb98134cb88c319e03ec156d66
+run_name: intrigued-hawk-965
+run_uuid: ee4b1aeb98134cb88c319e03ec156d66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232548694
+status: 3
+tags: []
+user_id: Marwan Yasser

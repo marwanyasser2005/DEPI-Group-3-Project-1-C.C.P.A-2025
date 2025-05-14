@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/dd8e25fe31f14033bbf26012acb27752/artifacts
+end_time: 1747232214420
+entry_point_name: ''
+experiment_id: '763011196537422008'
+lifecycle_stage: active
+run_id: dd8e25fe31f14033bbf26012acb27752
+run_name: dazzling-auk-758
+run_uuid: dd8e25fe31f14033bbf26012acb27752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232214325
+status: 4
+tags: []
+user_id: Marwan Yasser

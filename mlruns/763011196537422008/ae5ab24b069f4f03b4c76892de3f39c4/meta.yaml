@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/ae5ab24b069f4f03b4c76892de3f39c4/artifacts
+end_time: 1747232397117
+entry_point_name: ''
+experiment_id: '763011196537422008'
+lifecycle_stage: active
+run_id: ae5ab24b069f4f03b4c76892de3f39c4
+run_name: adorable-rook-739
+run_uuid: ae5ab24b069f4f03b4c76892de3f39c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232387537
+status: 4
+tags: []
+user_id: Marwan Yasser

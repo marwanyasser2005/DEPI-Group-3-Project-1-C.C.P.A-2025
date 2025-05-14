@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747232503965
+current_stage: None
+description: null
+last_updated_timestamp: 1747232503965
+name: Stacking_Churn_Prediction
+run_id: 5ae4c95d45944cf59d6ef8e7be7283f8
+run_link: null
+source: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/5ae4c95d45944cf59d6ef8e7be7283f8/artifacts/stacking_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/5ae4c95d45944cf59d6ef8e7be7283f8/artifacts/stacking_model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/9603371985ad495b967b926dfcab3e0a/artifacts
+end_time: 1747231945161
+entry_point_name: ''
+experiment_id: '763011196537422008'
+lifecycle_stage: active
+run_id: 9603371985ad495b967b926dfcab3e0a
+run_name: Stacking_Model
+run_uuid: 9603371985ad495b967b926dfcab3e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231945029
+status: 4
+tags: []
+user_id: Marwan Yasser

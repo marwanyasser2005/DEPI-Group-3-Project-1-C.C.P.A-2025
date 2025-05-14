@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/773370447657143156/f20f149c22034a9ab5bc6953bbec0427/artifacts
+end_time: 1747230104462
+entry_point_name: ''
+experiment_id: '773370447657143156'
+lifecycle_stage: active
+run_id: f20f149c22034a9ab5bc6953bbec0427
+run_name: gaudy-snake-683
+run_uuid: f20f149c22034a9ab5bc6953bbec0427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230017425
+status: 3
+tags: []
+user_id: Marwan Yasser

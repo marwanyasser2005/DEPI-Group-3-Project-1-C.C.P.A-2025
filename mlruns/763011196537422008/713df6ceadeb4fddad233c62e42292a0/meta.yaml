@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Marwan%20Yasser/Downloads/Customer-Churn-Prediction/mlruns/763011196537422008/713df6ceadeb4fddad233c62e42292a0/artifacts
+end_time: 1747232236905
+entry_point_name: ''
+experiment_id: '763011196537422008'
+lifecycle_stage: active
+run_id: 713df6ceadeb4fddad233c62e42292a0
+run_name: clean-fish-978
+run_uuid: 713df6ceadeb4fddad233c62e42292a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232226454
+status: 4
+tags: []
+user_id: Marwan Yasser
